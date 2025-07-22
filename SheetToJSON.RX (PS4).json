@@ -1,0 +1,141 @@
+{
+  "CellImage": {
+    "981": "Start grid 5*3",
+    "RALLYCROSS TRACKS REVIEWS": {
+      "valueType": "IMAGE"
+    },
+    "tracks registred": {
+      "valueType": "IMAGE"
+    },
+    "SARX Discord:": {
+      "valueType": "IMAGE"
+    },
+    "showed": "Start area outside of the track"
+  },
+  "[M] Azizi Rx": {
+    "981": "No",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Vespucci",
+    "showed": ""
+  },
+  "[M] Schorl Rx": {
+    "981": "No",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Vespucci",
+    "showed": ""
+  },
+  "Alamo Sea RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "",
+    "showed": "Yes"
+  },
+  "DBS RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "LSIA",
+    "showed": "Yes"
+  },
+  "Del Perro RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Del Perro",
+    "showed": "Yes"
+  },
+  "Blaine County RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "",
+    "showed": "Yes"
+  },
+  "JQ - M3 RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Vespucci",
+    "showed": "Yes"
+  },
+  "JQ - Ubermacht RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "Lore edition of JQ - M3 RX",
+    "SARX Discord:": "Vespucci",
+    "showed": "Yes"
+  },
+  "Vespucci RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Vespucci",
+    "showed": "Yes"
+  },
+  "Vinewood RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Hippodrome",
+    "showed": "Yes"
+  },
+  "Bolingbroke RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Bolingbroke",
+    "showed": "Yes"
+  },
+  "Chumash RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Chumash",
+    "showed": "Yes"
+  },
+  "JQ - Cúinne Dall RX": {
+    "981": "",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "",
+    "showed": ""
+  },
+  "MTEX// Azizi RX": {
+    "981": "",
+    "RALLYCROSS TRACKS REVIEWS": "X",
+    "tracks registred": "",
+    "SARX Discord:": "Vespucci",
+    "showed": ""
+  },
+  "Chumash RX (Club)": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Chumash",
+    "showed": "Yes"
+  },
+  "Runway RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "LSIA",
+    "showed": "Yes"
+  },
+  "Zancudo RX": {
+    "981": "Yes",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "",
+    "SARX Discord:": "Zancudo",
+    "showed": "Yes"
+  },
+  "[M] Galena Rx": {
+    "981": "",
+    "RALLYCROSS TRACKS REVIEWS": "",
+    "tracks registred": "Broken : blue barriers on the track (editor bug)",
+    "SARX Discord:": "LSIA",
+    "showed": ""
+  }
+}
